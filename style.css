@@ -1,0 +1,39 @@
+#AktiviteterDiv
+{
+  font-size: 1.1rem;
+  text-align: center;
+  margin-top: 1rem;
+  position:relative;
+  opacity: 1;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+#SquareDiv
+{
+  background-color:antiquewhite;
+  opacity: 0.8;
+  text-align: center;
+  height: 15rem;
+  margin: 100px;
+  padding: 100px;
+  border: 15px solid;
+  border-radius: 40px;
+  
+  border-color: green;
+}
+#aktHeader
+{
+  
+  font-family: sans-serif;
+  position: relative;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  margin-top:-5rem;
+  
+}
+#tidDiv
+{
+  font-size: 1.1rem;
+  font-weight:bolder;
+  color: darkblue;
+}
